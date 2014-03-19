@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="F:/research/111/time-sensitive query/代码/WordNet/jwnl14-rc2/jwnl.jar"/>
+	<classpathentry kind="lib" path="F:/research/111/time-sensitive query/代码/lucene-4.0.0/core/lucene-core-4.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/research/111/time-sensitive query/代码/lucene-4.0.0/analysis/common/lucene-analyzers-common-4.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
